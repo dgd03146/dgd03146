@@ -2,7 +2,7 @@
 
 > FRONT-END Developer
 
-📚 [BLOG](https://dgd03146-github-io.vercel.app/)
+[BLOG](https://dgd03146-github-io.vercel.app/)
 
 ## ⚡ Technologies
 
