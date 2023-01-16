@@ -11,7 +11,6 @@
   I am motivated and hard-working, always looking for new challenges. I am excited to learn and grow as a developer.<br/>
   For the past year, I have been interested in creating a web screen which is avaliable in my life with React.<br/>
   I like to share my knowleadge and record<br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
@@ -32,3 +31,5 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
+
+![GeoJung's github stats](https://github-readme-stats.vercel.app/api?username=dgd03146&show_icons=true&theme=vue)
