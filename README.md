@@ -39,8 +39,8 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
 <p/>
 <br/>
-<div>
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=dgd03146&theme=vue&show_icons=true&count_private=true&hide=stars" align="center"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgd03146&show_icons=true&layout=compact&theme=graywhite" align="center"/>
-</div>
+</p>
 
