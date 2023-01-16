@@ -18,12 +18,29 @@
 #### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-3178C6?style=flat-square&logo=Next&logoColor=white"/>
 </p>
 <p>
-  
-
+ <img src="https://img.shields.io/badge/Redux_toolkit-764ABC?style=flat-square&logo=redux&logoColor=white">
+ <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react query&logoColor=white">
+ <img src="https://img.shields.io/badge/Recoil-000000?style=flat-squaree&logo=rust&logoColor=white">
+</p>
+<p>
+   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
 </p>
 
-![GeoJung's github stats](https://github-readme-stats.vercel.app/api?username=dgd03146&show_icons=true&theme=vue)
+#### Learning
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+<p/>
+
+<br/>
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=dgd03146&theme=vue&show_icons=true&count_private=true&hide=stars" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgd03146&show_icons=true&layout=compact&theme=graywhite" align="center"/>
+</div>
+
