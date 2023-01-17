@@ -8,8 +8,8 @@
 <p>
   👋&nbsp; Hi there! I'm <b>a prepared frontend developer</b> skilled in WEB.🚀<br/>
   I am motivated and hard-working, always looking for new challenges. I am excited to learn and grow as a developer.<br/>
-  For the past year, I have been interested in creating a web screen which is avaliable in my life with React.<br/>
-  I like to share my knowleadge and record<br/>
+  For the past year, I have been interested in creating a web screen which is avaliable in life with React.<br/>
+  I like to share my knowleadge and record on my notion and blog<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
