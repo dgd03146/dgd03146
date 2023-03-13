@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
 </p>
 <p>
  <img src="https://img.shields.io/badge/Redux_toolkit-764ABC?style=flat-square&logo=redux&logoColor=white">
@@ -35,8 +36,9 @@
 </p>
 
 #### Learning
+ <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white">
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+ 
 <p/>
 <br/>
 <p>
