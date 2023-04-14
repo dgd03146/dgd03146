@@ -6,11 +6,12 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>a prepared frontend developer</b> skilled in WEB.🚀<br/>
-  I am motivated and hard-working, always looking for new challenges. I am excited to learn and grow as a developer.<br/>
-  For the past year, I have been interested in creating a web screen which is avaliable in life with React.<br/>
-  I like to share my knowleadge and record on my notion and blog<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+Hello! 👋 I am a skilled frontend developer who loves building websites.🚀<br/>
+I am highly motivated and always on the lookout for new challenges and opportunities to improve my abilities.<br/>
+I am passionate about continuous learning and growth as a developer.🌱<br/>
+For the past year, I have been focused on building web pages with React that are user-friendly and easy to navigate. My goal is to create web applications that simplify complicated tasks and make life easier.👨‍💻<br/>
+In my free time, I enjoy sharing my knowledge with others and keeping track of my progress on my Notion and blog. It's satisfying to see how much I have learned and grown as a developer.📈<br/>
+Ultimately, my main goal is to create visually stunning web applications that work great and provide a delightful user experience.✨<br/>
 </p>
 
 
