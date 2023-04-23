@@ -1,6 +1,6 @@
 ### 🤞 Nice way to meet me
 <p>
-   <a href="https://imgeozi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=Tistory&logoColor=white"/></a>
+   <a href="https://medium.com/@ibory1220" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=Medium&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dgd03146/" target="_blank"><img src="https://img.shields.io/badge/GeoJungIm-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:ibory1220@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ibory1220@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
