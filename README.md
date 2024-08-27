@@ -6,12 +6,12 @@
 </p>
 
 <p>
-Hello! 👋 I am a skilled frontend developer who loves building websites.🚀<br/>
-I am highly motivated and always on the lookout for new challenges and opportunities to improve my abilities.<br/>
-I am passionate about continuous learning and growth as a developer.🌱<br/>
-For the past year, I have been focused on building web pages with React that are user-friendly and easy to navigate. My goal is to create web applications that simplify complicated tasks and make life easier.👨‍💻<br/>
-In my free time, I enjoy sharing my knowledge with others and keeping track of my progress on my Notion and blog. It's satisfying to see how much I have learned and grown as a developer.📈<br/>
-Ultimately, my main goal is to create visually stunning web applications that work great and provide a delightful user experience.✨<br/>
+Hello! 👋 I'm a frontend developer with a passion for building intuitive and user-friendly web applications. 🚀 I thrive on solving complex problems and am constantly seeking new challenges to enhance my skills.
+My aim is to develop applications that simplify tasks and improve user experiences. 👨‍💻
+
+In my free time, I enjoy sharing my knowledge and tracking my progress through my blog and Notion. Seeing how much I've grown as a developer is incredibly rewarding. 📈
+
+My ultimate goal is to craft visually stunning applications that are not only functional but also deliver a delightful user experience. ✨
 </p>
 
 
