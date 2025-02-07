@@ -51,7 +51,14 @@ React와 TypeScript를 기반으로 유저와 상호작용하는 UI/UX 개선에
 </p>
 
 #### Learning
- <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"> 
+<p>
+   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white">
+   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
+</p>
+
+ 
+
 <p/>
 <br/>
 <p>
