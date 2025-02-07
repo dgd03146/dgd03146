@@ -1,13 +1,14 @@
-### 🤞 Nice way to meet me
+## 👨‍💻 Socials
 <p>
    <a href="https://medium.com/@ibory1220" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=Medium&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dgd03146/" target="_blank"><img src="https://img.shields.io/badge/GeoJungIm-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:ibory1220@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ibory1220@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
-
 </p>
 
+
 <br/>
+
+## 💙 About me
 
 <p>
 적극적인 태도와 원활한 의사소통 능력을 바탕으로, 기술에 대한 열정을 공유하며 끊임없이 성장하는 개발자입니다.<br/>
@@ -28,8 +29,8 @@ React와 TypeScript를 기반으로 유저와 상호작용하는 UI/UX 개선에
 <br/>
 
 
-### 💪 Skills
-#### Platforms & Languages
+## 💪 Skills
+### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&logoColor=white">
@@ -50,7 +51,7 @@ React와 TypeScript를 기반으로 유저와 상호작용하는 UI/UX 개선에
 
 </p>
 
-#### Learning
+### Learning
 <p>
    <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white">
