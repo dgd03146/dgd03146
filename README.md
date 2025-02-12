@@ -20,10 +20,10 @@ React와 TypeScript를 기반으로 유저와 상호작용하는 UI/UX 개선에
 <br/>
 
 <p>
-👋 Hello! I'm a frontend developer with a passion for building intuitive and user-friendly web applications. <br/>
-🚀 I thrive on solving complex problems and am constantly seeking new challenges to enhance my skills.<br/>
-👨‍💻 In my free time, I enjoy sharing knowledge through blogging and tracking my progress on Notion. 📈<br/>
-✨ My ultimate goal is to craft applications that are not only functional but also visually delightful.
+👋 Hey there! I’m a frontend developer who loves building intuitive and user-friendly web applications. <br/>
+🚀 I enjoy tackling complex problems and constantly challenge myself to grow and improve. <br/>
+👨‍💻 In my free time, I like sharing what I learn through blogging and organizing my thoughts on Notion. <br/>
+✨ My goal is to create applications that are not just functional but also visually enjoyable!
 </p>
 
 <br/>
