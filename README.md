@@ -40,8 +40,8 @@ React와 TypeScript를 기반으로 유저와 상호작용하는 UI/UX 개선에
    <img src="https://img.shields.io/badge/-Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white">
 </p>
 <p>
- <img src="https://img.shields.io/badge/Redux_toolkit-764ABC?style=flat-square&logo=redux&logoColor=white">
- <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react query&logoColor=white">
+
+ <img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
  <img src="https://img.shields.io/badge/Recoil-000000?style=flat-squaree&logo=rust&logoColor=white">
 </p>
 <p>
